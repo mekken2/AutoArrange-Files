@@ -12,7 +12,7 @@ A Python script to Automatically arrange the files in specified folders based on
 
 # TODO:
 
-- [ ] Add a sleep timer and Make it run in the background(in all of those folders where it is copied)
+- [X] Add a sleep timer and Make it run in the background(in all of those folders where it is copied)
 - [ ] Save the moved file data into a database and ignore those files (or check only current dir.)
 - [ ] Make only those folders which are needed as per the Extension requirement
 - [ ] Make it to ignore itself and not get moved somewhere else
